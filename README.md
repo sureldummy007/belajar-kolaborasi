@@ -1,3 +1,3 @@
 # belajar-kolaborasi
-Belajar github di Dicoding sangat menyenangkan!
+Belajar github di Dicoding sangat menyenangkan!<br>
 Latihan revert
